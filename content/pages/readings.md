@@ -1,0 +1,20 @@
+---
+content_type: page
+title: Readings
+uid: 13e56c2c-c9d3-e30d-3537-2f36ef7ce582
+---
+
+Many of the readings may be downloaded from the [Project Gutenberg](http://gutenberg.org/) site. Those available for download are linked from the bibliographic entry.
+
+| LEC # | Topics | Readings |
+| --- | --- | --- |
+| 1 | Power and Authority |  {{< br >}}{{< br >}} Plato. Excerpts from _The Republic_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/1497)) {{< br >}}{{< br >}} Dostoyevksy. _The Legend of the Grand Inquistor_. {{< br >}}{{< br >}} Kantor, Rosabeth. Excerpt from _Men and Women of the Corporation_. {{< br >}}{{< br >}} Case Study: "Foreign Assignment." {{< br >}}{{< br >}}  |
+| 2 | Ethics and Business Ethics |  {{< br >}}{{< br >}} Cheever, John. _The Housebreaker of Shady Hill_. {{< br >}}{{< br >}} Carr, Albert. _Is Business Bluffing Ethical?_ {{< br >}}{{< br >}} Aristotle. _The Politics_. (Excerpt on household management) {{< br >}}{{< br >}} Case Study: "Italian Tax Mores." {{< br >}}{{< br >}}  |
+| 3 | Loyalty and Conflict of Values |  {{< br >}}{{< br >}} Sophocles. _Antigone_. {{< br >}}{{< br >}} Plato. _Crito_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/1657)) {{< br >}}{{< br >}} Case Study: New York Times, "Into the Mouths of Babes." {{< br >}}{{< br >}}  |
+| 4 | Leadership and Followership |  {{< br >}}{{< br >}} Shakespeare. _Julius Caesar_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/2263)) {{< br >}}{{< br >}} Machiavelli. _The Prince_. Ch. 14-18. ([download from Project Gutenberg](http://www.gutenberg.org/etext/1232)) {{< br >}}{{< br >}}  |
+| 5 | Dirty Money |  {{< br >}}{{< br >}} Shaw, George Bernard. _Major Barbara_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/3790)) {{< br >}}{{< br >}} St. Matthew. _The Sermon on the Mount_; _The Parable of Payment_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/10)) {{< br >}}{{< br >}} Hobbes, Thomas. Excerpt from _Leviathan_. {{< br >}}{{< br >}} Aristotle. _Politics_. Bk 3, ch. 9. {{< br >}}{{< br >}} Lucas, J. R. "Money." Excerpt from _Responsibility._ {{< br >}}{{< br >}}  |
+| 6 | Stewardship |  {{< br >}}{{< br >}} Dinesen, Isak. (Karen von Blixen). _Sorrow-Acre_. {{< br >}}{{< br >}} Friedman, Milton. _The Social Responsibility of Business is Profit_. {{< br >}}{{< br >}} Heifetz, Ronald. "Tacoma." From _Leadership without Easy Answers_. {{< br >}}{{< br >}} Case Study. {{< br >}}{{< br >}}  |
+| 7 | Living in the System |  {{< br >}}{{< br >}} Forster, E. M. _The Machine Stops_. {{< br >}}{{< br >}} Pruitt and Barrett. _Corporate Virtual Workspace_. {{< br >}}{{< br >}} "Roger Boisjoly and the _Challenger_ Disaster." {{< br >}}{{< br >}}  |
+| 8 | Taking Charge |  {{< br >}}{{< br >}} Conrad, Joseph. _The Secret Sharer_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/220)) {{< br >}}{{< br >}} Orwell, George. _Shooting an Elephant_. {{< br >}}{{< br >}} Williams, William Carlos. _The Use of Force_. {{< br >}}{{< br >}}  |
+| 9 | Living with the Truth |  {{< br >}}{{< br >}} Swift, Jonathan. _Gulliver's Travels_. Book 4 only. ([download from Project Gutenberg](http://www.gutenberg.org/etext/829)) {{< br >}}{{< br >}} Kant, Immanuel. _On the Supposed Right to Lie_. {{< br >}}{{< br >}} Bonhoffer, Dietrich. _Situational Ethics_. {{< br >}}{{< br >}} Levitt, Theodore. _The Morality (?) of Advertising_. {{< br >}}{{< br >}} Case Studies: Circumventing the FDIC, The New Line of Soap, Mutal Fund Management, A Problem in Performance Evaluation. {{< br >}}{{< br >}}  |
+| 10 | Glass Ceilings |  {{< br >}}{{< br >}} Ibsen, Henrik. _A Doll's House_. {{< br >}}{{< br >}} Beauvoir, Simone de. _Introduction to The Second Sex_. {{< br >}}{{< br >}} Case Study: "Unequal Opportunity." {{< br >}}{{< br >}}
